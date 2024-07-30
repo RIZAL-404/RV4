@@ -8,41 +8,26 @@
     <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/harry-exe/HARRYv6">
     <img alt="Maintenance" src="https://img.shields.io/maintenance/no/2024">
   </p>
-  <h4> Welcome to RICHARDOv4, the latest version of the powerful tool developed by RICHARDO. With RICHARDOv4, you can crack public,file & random with regular updates and absolutely free of cost. Below are the commands to get started ! </h4>
+  <h4> Welcome to RV4, the latest iteration of the advanced tool created by RIZAL/RICHARDO. RV4 offers robust features and is continually updated to ensure top performance—all at no cost. Below, you'll find the commands to help you get started.
+
+ </h4>
 </div>
 
 ### What is HARRYv6?
-[**HARRYv6**](https://github.com/HARRY-EXE/HARRYv6) is a powerful tool developed by HARRY-EXE, designed to crack public files with regular updates and absolutely no cost. It features various functions such as Facebook automation, including auto like and comment, and employs multiple methods for cracking. Additionally, it includes an optimized file maker and many more functionalities.
+[**RV4**](https://github.com/RIZAL-404/RV4) RV4 is a robust tool created by RIZAL/RICHARDO, designed to efficiently handle public file & random cracking. It offers regular updates at no cost and includes a range of features such as Facebook automation with auto-like and auto-comment functions. The tool also employs various cracking methods, boasts an optimized file maker, and provides many additional functionalities.
 ##
 
 ### Termux command?
-To utilize this tool, you first need to have [Termux](https://f-droid.org/repo/com.termux_118.apk) installed. Once installed, enter the following command into Termux to proceed.
+To run this tool, you first need to have [Termux](https://f-droid.org/repo/com.termux_118.apk) installed. Once installed, enter the following command into Termux to proceed.
 
 ```
 pkg install python
 pkg install git
-rm -rf HARRYv6
-git clone --depth=1 https://github.com/HARRY-EXE/HARRYv6
-cd HARRYv6
-pip install -r requirements.txt
-python3 run.py
-```
-
-```
-cd "$HOME/HARRYv6" && git pull
-python run.py
-```
-##
-
-### Screenshots
-Here are some screenshots of the tool provided by our users:
-
-<div align="center">
-  <p>
-    <img src="https://github.com/HARRY-EXE/HARRYv6/assets/94730463/07f2b28f-37fa-4ea6-b531-a721e37d542f")
-  </p>
-</div>
+rm -rf RV4
+git clone https://github.com/RIZAL-404/RV4
+cd RV4
+python brute.py
 
 ##
 
-Get ready to experience 
+Get ready to experience RV4 tool
