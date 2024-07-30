@@ -1,11 +1,11 @@
 # RICHARDOv4- Facebook Bruteforce Tool
 ![IMG_20240729_193257_188](https://github.com/user-attachments/assets/b9dd89a1-5224-4cac-9eaf-41f2566861ea)
   <p>
-    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/harry-exe/HARRYv6">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/harry-exe/HARRYv6">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/RIZAL-404/RV4">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/RIZAL-404/RV4">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/harry-exe/HARRYv6">
-    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/harry-exe/HARRYv6">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/RIZAL-404/RV4">
+    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/RIZAL-404/RV4">
     <img alt="Maintenance" src="https://img.shields.io/maintenance/no/2024">
   </p>
   <h4> Welcome to RV4, the latest iteration of the advanced tool created by RIZAL/RICHARDO. RV4 offers robust features and is continually updated to ensure top performance—all at no cost. Below, you'll find the commands to help you get started.
