@@ -26,6 +26,7 @@ pkg install git
 rm -rf RV4
 git clone https://github.com/RIZAL-404/RV4
 cd RV4
+git pull
 python brute.py
 
 >> Get ready to experience with RV4 tool
