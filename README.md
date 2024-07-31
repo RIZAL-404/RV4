@@ -19,9 +19,11 @@
 
 ![Screenshot_20240731-165247](https://github.com/user-attachments/assets/5febb5b9-06b3-4e69-b392-daed12aa75f3)
 
+## Termux link?
+Click this blue highlight "termux" text for download latest versionof termux >> [Termux](https://f-droid.org/repo/com.termux_118.apk)
 
 ### Termux command?
-To run this tool, you first need to have [Termux](https://f-droid.org/repo/com.termux_118.apk) installed. Once installed, enter the following command into Termux to proceed.
+
 
 ```
 rm -rf RV4
