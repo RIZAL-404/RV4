@@ -24,8 +24,6 @@
 To run this tool, you first need to have [Termux](https://f-droid.org/repo/com.termux_118.apk) installed. Once installed, enter the following command into Termux to proceed.
 
 ```
-pkg install python
-pkg install git
 rm -rf RV4
 git clone https://github.com/RIZAL-404/RV4
 cd RV4
@@ -33,3 +31,24 @@ git pull
 python brute.py
 
 >> Get ready to experience with RV4 tool
+
+```
+
+### Setup command?
+
+```
+termux-setup-storage
+apt update
+apt upgrade
+pkg install python
+pkg install git
+pkg install wget
+pkg install tor
+pkg install jp2a
+pkg install figlet
+pkg install cmake
+pip install requests
+pip install bs4
+pip install lolcat
+pip install rich
+pip install rice
