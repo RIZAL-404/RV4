@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields">
     <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/RIZAL-404/RV4">
     <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/RIZAL-404/RV4">
-    <img alt="Maintenance" src="https://img.shields.io/maintenance/no/2024">
+    
   </p>
   <h4> Welcome to RV4, the latest iteration of the advanced tool created by RIZAL/RICHARDO. RV4 offers robust features and is continually updated to ensure top performance—all at no cost. Below, you'll find the commands to help you get started.
 
