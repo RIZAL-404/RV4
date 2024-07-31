@@ -13,7 +13,7 @@
 </div>
 
 ### What is RV4?
-[**RV4**](https://github.com/RIZAL-404/RV4) Owner is RIZAL/RICHARDO, a powerful tool for public file management and random cracking. It offers regular updates and a range of features—all at no cost.
+[**RV4**](https://github.com/RIZAL-404/RV4) Owner is RIZAL/RICHARDO, a powerful tool for public file and random cracking. It offers regular updates and a range of features—all at no cost.
 ##
 
 ![Screenshot_20240731-165247](https://github.com/user-attachments/assets/5febb5b9-06b3-4e69-b392-daed12aa75f3)
